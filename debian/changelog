@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-sigstore-protobuf-specs (0.2.1-2) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * No-change upload to aid testing migration
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Thu, 27 Jun 2024 07:56:17 -0400
+
+golang-github-sigstore-protobuf-specs (0.2.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1060853)
+
+ -- Simon Josefsson <simon@josefsson.org>  Mon, 15 Jan 2024 18:51:07 +0100
